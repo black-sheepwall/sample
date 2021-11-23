@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class MainControllerHg {
-	
+	//Git hub test입니다. 
 	@GetMapping(value="main")
 	public String test1() {
 		
